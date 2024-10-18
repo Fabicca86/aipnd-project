@@ -14,6 +14,7 @@ This project is an image classifier that uses deep learning to categorize flower
 - Matplotlib
 - NumPy
 - Pillow
+
 For specific dependencies refere to REQUIREMENTS.TXT
 
 ## Installation
