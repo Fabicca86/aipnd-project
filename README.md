@@ -2,7 +2,7 @@
 
 Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
 
-#__My Image Classifier__
+# _My Image Classifier_
 
 ## Description
 This project is an image classifier that uses deep learning to categorize flower images into 102 different categories. It was developed as part of the final project for the AI Programming with Python Nanodegree Program by Udacity.
