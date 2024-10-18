@@ -108,7 +108,7 @@ class FlowerClassifier:
             if val_loss < best_val_loss:
                 best_val_loss = val_loss
                 early_stop_counter = 0
-                torch.save(self.model.state_dict(), 'best_model.pth')
+                torch.save(self.model.state_dict(), 'best_model.pth') #Recommend it if pretend to run more epochs and change params
             else:
                 early_stop_counter += 1
             
