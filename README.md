@@ -20,8 +20,8 @@ For specific dependencies refere to REQUIREMENTS.TXT
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone [https://github.com/Fabicca86/aipnd-project.git]
+    cd <your-repository>
     ```
 
 2. Create a virtual environment and activate it:
